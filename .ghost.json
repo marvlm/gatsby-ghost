@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://localhost:3000",
+    "contentApiKey": "22aba7800d1559d5448253ab31"
   },
   "production": {
-    "apiUrl": "https://gatsbyml.digitalpress.blog",
-    "contentApiKey": "68d22cd99b60065e3f81962b86"
+    "apiUrl": "https://www.imarv.in",
+    "contentApiKey": "15a386c5d3b4d82c5374fd0b8e"
   }
 }
